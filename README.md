@@ -1,8 +1,6 @@
-# AutoExcelMacroRunner_ExcelToCSVTransformer
- 
 ---
 
-# AutoExcelMacroRunner
+# AutoExcelMacroRunner_ExcelToCSVTransformer
 
 AutoExcelMacroRunnerは、指定されたExcelファイル内のマクロを自動的に実行し、プロセスが完了した後にExcelを閉じるPythonスクリプトです。このツールは、特に繰り返し実行が必要なExcelマクロの自動化に適しています。
 
